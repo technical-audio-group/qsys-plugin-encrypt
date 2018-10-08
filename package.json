@@ -1,0 +1,25 @@
+{
+  "name": "qsys-plugin-encrypt",
+  "version": "1.0.0",
+  "description": "Encryption tool for Q-Sys plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/technical-audio-group/qsys-plugin-encrypt.git"
+  },
+  "keywords": [
+    "q-sys",
+    "qsys",
+    "plugin",
+    "encrypt"
+  ],
+  "author": "Michael Goodyear <mg@tag.com.au>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/technical-audio-group/qsys-plugin-encrypt/issues"
+  },
+  "homepage": "https://github.com/technical-audio-group/qsys-plugin-encrypt#readme"
+}
